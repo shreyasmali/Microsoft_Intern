@@ -2,6 +2,6 @@
 echo "Hello world this is simple temp.sh file"
 ls
 pwd
-touch file_using_temp1.txt
-pwd >> file_using_temp1.txt
-ls >> file_using_temp1.txt
+touch temp1.txt
+pwd >> temp1.txt
+ls >> temp1.txt
